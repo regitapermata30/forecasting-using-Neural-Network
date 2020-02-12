@@ -1,0 +1,2 @@
+# forecasting-using-Neural-Network
+The selection of input models in neural networks influence the predictive accuracy. The purpose of this paper is to compare input models in neural network time series using the Surabaya rainfall data in Wonorejo reservoir. The input for Neural Network model from a significant lag on PACF and ARIMA models. From the simulation results it was found that the best FFNN model using PACF input lag with the Rprop+ with logistic activation function. The best DLNN model using the Rprop- algorithm with the logistics activation function. 
